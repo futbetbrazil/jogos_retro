@@ -1,0 +1,426 @@
+#container{
+    background: url("../IMG/indexx.jpg") center center no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: auto;
+    
+  }
+
+  .accordion { 
+    width: 80%;
+    margin: auto;
+    
+}
+
+.accordion > .accordion-item {
+  background-color:#000;
+  color: white;
+  font-family: 'Segoe UI';
+  font-size: 150%;
+  
+}
+
+.accordion > .accordion-item > .accordion-header > .accordion-button {
+  background-color:#000;
+  color: white;
+  font-size: 70%;
+  
+}
+
+.text-1{
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  width: auto;
+  margin: auto;
+
+  
+}
+
+.text-1 > .title {
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+  
+
+}
+
+.text-1 > .mesma{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.btn-0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+}
+
+.btn-0 button{
+    
+  border-radius: 20px;
+  border: none;
+  width: 360px;
+  height: 90px;
+}
+
+.infancia{
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  width: auto;
+  margin: auto;
+
+}
+
+.infancia-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.infancia-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.vai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.img-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+}
+
+.title-3_0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+
+}
+
+.img-3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.title-4_0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.title-4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.video1{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.video2{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.video3{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.video4{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+
+
+.img-4 > .title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.img-4b{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.title5_0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.title5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.title6_0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+
+}
+
+.title6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.img-s{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+}
+
+.title-7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+}
+
+.title-9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+}
+
+.title10_0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.title10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.jogos{
+  margin: auto;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+
+}
+
+.jogos1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos8{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.jogos10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.clientes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.clientesb{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.coment1{
+  margin-left: 16%;
+  
+}
+
+.coment2{
+  margin-left: 16%;
+  
+}
+
+.coment3{
+  margin-left: 16%;
+  
+}
+
+.coment4{
+  margin-left: 16%;
+  
+}
+
+.diversao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  background-color:rgba(10, 10, 10, 0.7);
+  
+
+}
+
+.diversaob{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
